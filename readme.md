@@ -1,12 +1,12 @@
 # EAT WHAT
-Simple "EAT-WHAT" application made serveral years before. It helps you choose the your lunch menu with your co-workers by shaking your device.
+Simple "EAT-WHAT" application made from serveral years ago. It helps you to choose the your lunch menu with your co-workers by shaking your mobile device.
 
 ## WTF is this
-When I was worked previous job, there were so many good food shops so it was really hard to which one to go.
-This helped to decide where to go, maybe...?
+When I worked previous job, there were so many good food shops so it was really hard to choose which one to go.
+This helped to decide where to go(a little).
 
 ## How to run
-You need mobile device. Somehow, make this accessible with your mobile device and run.
+You need a mobile device. Somehow, make this app to accessible with your mobile device and run.
 When the website coming up, shake your device!
 
 ## IT DOESN'T WORK
