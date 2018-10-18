@@ -1,0 +1,15 @@
+{
+  "name": "eatwhat",
+  "version": "1.0.0",
+  "description": "Simple \"EAT-WHAT\" application made serveral years before. It helps you choose the your lunch menu with your co-workers by shaking your device.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "author": "",
+  "license": "DON'T USE TO YOUR COMMERCIAL PROJECT"
+}
